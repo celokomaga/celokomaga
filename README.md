@@ -1,4 +1,4 @@
-## Olá! Eu sou o Marcelo Magalhães👋
+## Olá! Eu sou o Marcelo Magalhães 🖐️😊
 
 ### <p>Sou um estudante de Programação, e durante essa minha jornada nos estudos acabei me apaixonando ainda mais pela profissão! </p>
 
