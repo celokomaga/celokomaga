@@ -17,3 +17,8 @@
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
+
+![snake gif](https://github.com/celokoma/celokomaga/blob/output/github-contribution-grid-snake.svg)
+
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=celokomaga&repo=celokomaga&theme=react)](https://github.com/celokomaga/celokomaga)
