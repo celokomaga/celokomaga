@@ -16,7 +16,6 @@
 <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-  ![Snake animation](https://github.com/celokomaga/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
+
+ ![Snake animation](https://github.com/celokomaga/celokomaga/blob/output/github-contribution-grid-snake.svg)
