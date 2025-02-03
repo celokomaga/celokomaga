@@ -18,4 +18,4 @@
 <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 
- ![Snake animation](https://github.com/celokomaga/celokomaga/blob/output/github-contribution-grid-snake.svg)
+ [![Snake animation](https://github.com/celokomaga/celokomaga/blob/output/github-contribution-grid-snake.svg)]
