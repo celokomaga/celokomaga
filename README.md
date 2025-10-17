@@ -20,36 +20,6 @@
 </picture>
 <br><br>
 
-name: Generate Snake
-
-on:
-  schedule: # executa automaticamente a cada 24h
-    - cron: "0 0 * * *"
-  workflow_dispatch: # permite rodar manualmente
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      - name: Generate the snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: celokomaga  # coloque seu usuário aqui
-          outputs: dist/github-contribution-grid-snake.svg
-          # Cores personalizadas
-          color_snake: "#00ff99"
-          color_dots: "#1a1a1a,#333333,#66ffcc,#99ffcc,#ccfff0"
-      
-      - name: Push snake to the output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 <div style="display inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
