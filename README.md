@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Marcelo Magalhães 🖐️😊
 
-### <p>Sou um estudante de Programação, e durante essa minha jornada nos estudos acabei me apaixonando ainda mais pela profissão! </p>
+### <p>Durante minha jornada de estudos em Programação, descobri não apenas uma profissão, mas uma verdadeira paixão por criar soluções e transformar ideias em realidade.</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://linkedin.com/in/marcelo-cordeiro-848652333)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/celokomaga/)
