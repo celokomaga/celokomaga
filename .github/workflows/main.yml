@@ -31,6 +31,14 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+            - name: Generate the snake
+  uses: Platane/snk@v3
+  with:
+    github_user_name: seu-usuario
+    outputs: dist/github-contribution-grid-snake.svg
+    color_snake: "#ffffff"       # cobrinha branca
+    color_dots: "#ff0000,#33ff33,#66ff66,#99ff99,#ccffcc"  # primeiro = fundo vermelho
           
           
       # push the content of <build_dir> to a branch
